@@ -5,6 +5,7 @@ export default function index() {
   return (
     <View>
       <Text>test file</Text>
+      <Text> More Text addeddddddd</Text>
     </View>
   )
 }
